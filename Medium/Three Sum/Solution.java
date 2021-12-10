@@ -1,4 +1,4 @@
-class ThreeSum {
+class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         // Sort list -> Get pivot and 2Sum the rest
         
